@@ -1,0 +1,17 @@
+[==== v 0.1.0 ====]
+Please accomplish the following tasks. Replace the "_" in the box next to the task with a "#" when you finish it. If, for some reason, you are unable to complete a task, use the comment symbol "//" after the task and leave the reason the task is unfinished. Any bugs you find can be noted at the bottom of this page. Thanks!
+
+[_] fish up a Coin
+[_] trade for a Coin from a Wandering Trader
+[_] get a coin from a Drowned
+[_] get a coin from a Evoker
+[_] get a coin from a Husk
+[_] get a coin from a Pillager
+[_] get a coin from a Skeleton
+[_] get a coin from a Slime
+[_] get a coin from a Stray
+[_] get a coin from a Vindicator
+[_] get a coin from a Witch
+[_] get a coin from a Zombie
+
+[-- BUGS --]

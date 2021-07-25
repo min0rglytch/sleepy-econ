@@ -1,0 +1,14 @@
+[==== v 0.1.0 ====]
+-> added Coin, available through the following means:
+---> fishing treasure
+---> trade with Wandering Trader
+---> loot from Drownded
+---> loot from Evoker
+---> loot from Husk
+---> loot from Pillager
+---> loot from Skeleton
+---> loot from Slime
+---> loot from Stray
+---> loot from Vindicaor
+---> loot from Witch
+---> loot from Zombie
